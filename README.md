@@ -1,5 +1,4 @@
 # 💫 About Me
-............
 Hi 👋, I'm *Anup Kumar— a passionate Software Engineer and **AI/ML Engineer* who loves building intelligent systems, scalable web apps, and creative tech solutions.
 
 💡 I enjoy solving real-world problems using data, automation, and cutting-edge technologies — from backend systems to AI models and full-stack web platforms.<br/>
