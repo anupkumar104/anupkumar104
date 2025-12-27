@@ -5,7 +5,7 @@ Hi 👋, I'm *Anup Kumar— a passionate Software Engineer and **AI/ML Engineer*
 ⚙ Always eager to learn, collaborate, and innovate in the world of technology!
 
 📬 Reach out to me:
-✉ *anupsinghrawat2005@gmail.com* 
+✉ *anupsinghrawat2005@gmail.com*
  — for collaborations, project, or tech discussions.😊
 
 # 💻 Tech Stack:
